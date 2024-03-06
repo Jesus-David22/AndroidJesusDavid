@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidJS</string>
+    <string name="myapp">myApp</string>
+    <string name="pedido">Pedido</string>
+</resources>
